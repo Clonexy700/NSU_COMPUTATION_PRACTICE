@@ -81,7 +81,3 @@ print(f"Вы ввели:\n{x}")
 print('Метод Зейделя:')
 
 gauss_seidel(A, b, x, max_iterations=4)
-
-
-
-
